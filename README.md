@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Tran Hong Son from Vietnam.<br><br>- 🔭 I’m working as a Back-end developer.<br>- 📚 I'm currently learning Java and Microservices.<br>- 👯 I’m looking to collaborate on Full-stack projects.<br>- 🤝 I’m seeking assistance with Java and Spring Boot.<br>- ⚡ In my free time, I travel 🚶‍♂️ and play football ⚽.</p>
+<p align="left">I am Nguyen Tran Hong Son from Vietnam.<br><br>- 🔭 I am currently working as a self-taught Back-end developer.<br>- 📚 I am currently learning DSA, Java and Spring Boot.<br>- 👯 I am looking for collaboration in Full-stack, Microservices and DevOps projects.<br>- 🤝 I am looking for support in Java and Spring Boot.<br>- ⚡ In my spare time, I like to stroll around the city 🚶‍♂️ and play football ⚽.</p>
 
 ###
 
