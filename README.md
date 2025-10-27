@@ -50,14 +50,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
