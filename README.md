@@ -11,7 +11,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shongon-be.shongon-be&"  />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=shongon-be.shongon-be&"  /> -->
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hongsonnguyentran/)
+  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hongson530.dev@gmail.com) 
 </div>
 
 ###
@@ -23,7 +26,7 @@
   
 ###
 
-<h3 align="left"> Languages: </h3>
+<h3 align="left"> 💻 Tech Stack: </h3>
 
 ###
 
@@ -31,13 +34,11 @@
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left"> Tools & Technologies: </h3>
-
-<div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
@@ -52,10 +53,6 @@
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
@@ -72,14 +69,14 @@
 
 ###
 
-<h3 align="left">My Stats:</h3>
+<h3 align="left">📊 My Stats:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shongon-be&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=shongon-be&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shongon-be&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hongsonnguyentran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongsonnguyentran&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hongsonnguyentran&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
