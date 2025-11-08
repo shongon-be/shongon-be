@@ -13,7 +13,7 @@
 <div align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=shongon-be.shongon-be&"  /> -->
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hongsonnguyentran/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongsonnguyentran/)
   [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hongson530.dev@gmail.com) 
 </div>
 
